@@ -8,7 +8,13 @@ A Laravel (PHP) magazine / e-commerce style website with a Voyager admin panel, 
 
 `best-look.net` is no longer this shop, but the Wayback Machine kept **25 captures** of it (13 Feb 2004 – 14 Jan 2025), including the pages, CSS, JS and photos of this exact Laravel build.
 
-![Best-Look internet magazine — homepage as archived on 28 Jan 2018](screenshots/homepage-2018-archive.png)
+The whole homepage as it looked on **28 Jan 2018** — navigation bar, hero slider, category grid with photos, footer sitemap and contacts:
+
+![Best-Look internet magazine — full homepage archived on 28 Jan 2018](screenshots/bestlook-2018-full-site.png)
+
+Source snapshot: <https://web.archive.org/web/20180128062249/http://www.best-look.net/>
+
+A deeper page — the item listing of category 2 (page 2 of 7), archived 29 Jan 2018:
 
 ![Best-Look internet magazine — category items page, archived 29 Jan 2018](screenshots/category-items-2018-archive.png)
 
